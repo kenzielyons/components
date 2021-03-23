@@ -1,0 +1,32 @@
+:root{
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: inherit;
+    margin: o;
+}
+
+.kenzie{
+    width: 416px;
+    height: 176px;
+    background-image: url('images/Component\ 17\ –\ 1.svg');
+    background-size: cover;
+}
+
+.copy{
+    width: 124px;
+    height: 149px;
+    background-image: url('images/Component\ 13\ –\ 1.svg');
+    background-size: cover;
+}
+
+
+.copyright{
+    width: 256px;
+    height: 48px;
+    background-image: url('images/Component\ 16\ –\ 1.svg');
+    background-size: cover;
+}
